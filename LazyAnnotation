@@ -1,0 +1,1 @@
+When two classes form a cyclic depdendency we can annotation any one bean with @Lazy to resolve the isse
